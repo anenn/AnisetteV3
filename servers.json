@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "SideStore（zds）",
+            "address": "https://anisette-v3-server-i7ro.onrender.com"
+        }
+    ]
+}
